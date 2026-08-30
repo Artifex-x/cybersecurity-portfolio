@@ -6,7 +6,7 @@ I am an aspiring cybersecurity professional with experience in user support, sup
 
 I value integrity, responsibility, continuous learning, and the protection of people and data. I am especially interested in threat analysis, incident response, risk management, and understanding how security issues can affect users, systems, and organizations.
 
-My goal is to use my analytical thinking, communication, problem-solving skills, and growing cybersecurity knowledge to help organizations reduce risks, protect sensitive information, respond effectively to security incidents, and maintain secure and reliable systems.
+My goal is to use my analytical thinking, communication, problem solving skills, and growing cybersecurity knowledge to help organizations reduce risks, protect sensitive information, respond effectively to security incidents, and maintain secure and reliable systems.
 
 ## Strengths
 
