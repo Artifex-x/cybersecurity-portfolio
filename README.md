@@ -1,5 +1,5 @@
 # Cybersecurity Portfolio
-
+**English** | [Português (PT-BR)](./README-PTBR.md)
 ## Professional Statement
 
 I am an aspiring cybersecurity professional with experience in user support, support ticket resolution, community moderation, problem-solving, and identifying irregular activities in an international digital environment.
