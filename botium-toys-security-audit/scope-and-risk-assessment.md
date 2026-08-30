@@ -26,3 +26,17 @@ The assets managed by Botium Toys include:
 - Data storage and retention systems
 - Legacy systems that require manual monitoring and maintenance
 - Physical security equipment, including surveillance cameras
+## Risk Assessment
+
+Botium Toys has a high level of security risk due to several missing or insufficient security controls.
+
+The main risks identified include:
+
+- Excessive employee access to sensitive information
+- Lack of data encryption
+- Lack of backups for critical data
+- No intrusion detection system (IDS)
+- Weak password requirements
+- No implementation of least privilege
+- No separation of duties
+- No disaster recovery plan
