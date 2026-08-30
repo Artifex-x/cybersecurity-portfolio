@@ -103,3 +103,8 @@ Based on the findings of this audit, Botium Toys should prioritize the following
 - Implement an intrusion detection system (IDS)
 - Restrict access to sensitive customer and payment information
 - Improve data classification and inventory practices
+## Conclusion
+
+The audit found that Botium Toys has several security controls in place, but significant gaps remain in access control, data protection, monitoring, backup, and disaster recovery.
+
+Addressing these weaknesses would reduce the organization's overall security risk, improve the protection of sensitive information, and strengthen its security posture and compliance practices.
