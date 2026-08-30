@@ -39,3 +39,12 @@ I am motivated by the opportunity to reduce risks, protect sensitive information
 ## Career Goal
 
 My goal is to continue developing my technical cybersecurity skills and combine them with my experience in support, problem-solving, communication, and analysis to contribute to the security goals of organizations.
+## Projects
+
+### [Botium Toys Security Audit](./botium-toys-security-audit/)
+
+Academic cybersecurity lab focused on internal security auditing, risk assessment, security controls, and compliance practices.
+
+**Skills:** Security auditing, risk assessment, access control, PCI DSS, GDPR, SOC, CIA Triad, and security recommendations.
+
+**Available in:** English (EN) and Portuguese (PT-BR)
