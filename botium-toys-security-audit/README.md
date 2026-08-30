@@ -8,30 +8,30 @@ The objective was to perform an internal security audit by reviewing the organiz
 
 ## Skills Applied
 
- Security auditing
- Risk assessment
- Security controls evaluation
- Least privilege
- Separation of duties
- Data encryption
- Backup and disaster recovery
- Intrusion Detection Systems (IDS)
- PCI DSS
- GDPR
- SOC controls
- CIA Triad
+- Security auditing
+- Risk assessment
+- Security controls evaluation
+- Least privilege
+- Separation of duties
+- Data encryption
+- Backup and disaster recovery
+- Intrusion Detection Systems (IDS)
+- PCI DSS
+- GDPR
+- SOC controls
+- CIA Triad
 
 ## Key Findings
 
 The audit identified several security gaps, including:
 
- Lack of least privilege
- Lack of separation of duties
- No intrusion detection system (IDS)
- No encryption for sensitive information
- No backups of critical data
- Weak password policies
- Excessive access to sensitive information
+- Lack of least privilege
+- Lack of separation of duties
+- No intrusion detection system (IDS)
+- No encryption for sensitive information
+- No backups of critical data
+- Weak password policies
+- Excessive access to sensitive information
 
 The organization also had some security controls already implemented, including firewall protection, antivirus software, physical locks, CCTV surveillance, and fire detection and prevention systems.
 
