@@ -10,7 +10,7 @@ My goal is to use my analytical thinking, communication, problem-solving skills,
 
 ## Strengths
 
-**Problem-solving**  
+**Problem Solving** 
 Experience resolving user issues through support tickets, analyzing different situations, and finding appropriate solutions.
 
 **Communication and User Support**  
