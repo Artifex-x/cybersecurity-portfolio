@@ -11,3 +11,18 @@ The goals of this audit are to:
 - Assess risks to critical assets and sensitive information
 - Review compliance practices
 - Recommend security improvements to reduce risk and strengthen Botium Toys' security posture
+## Current Assets
+
+The assets managed by Botium Toys include:
+
+- On-premises equipment used for business operations
+- Employee devices, including desktops, laptops, smartphones, and remote workstations
+- Internal network infrastructure
+- Business systems, software, and services
+- Accounting and database systems
+- E-commerce and inventory management systems
+- Customer and payment information
+- Internet access
+- Data storage and retention systems
+- Legacy systems that require manual monitoring and maintenance
+- Physical security equipment, including surveillance cameras
