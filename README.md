@@ -29,12 +29,12 @@ I am motivated by the opportunity to reduce risks, protect sensitive information
 
 ## Cybersecurity Interests
 
- Threat Analysis
- Incident Response
- Risk Management
- Security Monitoring
- Vulnerability Analysis
- Information Security
+- Threat Analysis
+- Incident Response
+- Risk Management
+- Security Monitoring
+- Vulnerability Analysis
+- Information Security
 
 ## Career Goal
 
