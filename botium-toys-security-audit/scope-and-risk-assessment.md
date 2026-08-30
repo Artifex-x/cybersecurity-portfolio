@@ -91,3 +91,15 @@ However, weaknesses remain in:
 
 - User access controls
 - Confidentiality of sensitive information (PII/SPII)
+## Recommendations
+
+Based on the findings of this audit, Botium Toys should prioritize the following security improvements:
+
+- Implement least privilege and separation of duties
+- Strengthen password policies and password management practices
+- Implement encryption for sensitive and payment data
+- Create regular backups of critical data
+- Develop and maintain a disaster recovery plan
+- Implement an intrusion detection system (IDS)
+- Restrict access to sensitive customer and payment information
+- Improve data classification and inventory practices
