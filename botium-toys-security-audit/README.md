@@ -41,9 +41,17 @@ Botium Toys should improve access controls, strengthen password policies, implem
 
 These measures would help protect sensitive data, reduce security risks, and improve compliance with PCI DSS, GDPR, and SOC requirements.
 
-## Documents
+## Project Documents
 
-The completed security audit is available in English and Portuguese in this project folder.
+### Security Audit
+
+- 🇺🇸 [Security Audit - English](./Botium_Toys_Security_Audit_EN.pdf)
+- 🇧🇷 [Auditoria de Segurança - Português](./Botium_Toys_Security_Audit_PTBR.pdf)
+
+### Scope and Risk Assessment
+
+- 🇺🇸 [Scope and Risk Assessment - English](./scope-and-risk-assessment.md)
+- 🇧🇷 [Escopo e Avaliação de Riscos - Português](./scope-and-risk-assessment-ptbr.md)
 
 ## Disclaimer
 
