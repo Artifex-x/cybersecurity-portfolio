@@ -56,3 +56,38 @@ Botium Toys already has several security controls in place, including:
 - Closed-circuit television (CCTV) surveillance
 - Fire detection and prevention systems
 - An existing password policy, although its requirements need improvement
+## Compliance Findings
+
+### PCI DSS
+
+Botium Toys does not currently meet several important PCI DSS security practices.
+
+Key gaps include:
+
+- Excessive access to customers' credit card information
+- Lack of encryption for payment data
+- Inadequate protection of cardholder data
+- Weak password management practices
+
+### GDPR
+
+Botium Toys has some GDPR-related practices in place, but important gaps remain.
+
+The organization has:
+
+- A plan to notify affected E.U. customers within 72 hours in the event of a data breach
+- Privacy policies and procedures for documenting and maintaining data
+
+However, the organization still needs to improve:
+
+- Protection of E.U. customers' personal data
+- Data classification and inventory practices
+
+### SOC
+
+The organization has controls supporting data integrity and availability.
+
+However, weaknesses remain in:
+
+- User access controls
+- Confidentiality of sensitive information (PII/SPII)
