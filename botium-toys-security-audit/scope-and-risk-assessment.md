@@ -40,3 +40,8 @@ The main risks identified include:
 - No implementation of least privilege
 - No separation of duties
 - No disaster recovery plan
+## Risk Score
+
+The overall risk score for Botium Toys is **8 out of 10**, which represents a high level of risk.
+
+This score reflects the number and severity of missing security controls, weaknesses in access management, and gaps in compliance and data protection practices.
