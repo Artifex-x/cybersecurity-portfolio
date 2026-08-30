@@ -2,7 +2,7 @@
 **English** | [Português (PT-BR)](./README-PTBR.md)
 ## Professional Statement
 
-I am an aspiring cybersecurity professional with experience in user support, support ticket resolution, community moderation, problem-solving, and identifying irregular activities in an international digital environment.
+I am an aspiring cybersecurity professional with experience in user support, support ticket resolution, community moderation, problem solving, and identifying irregular activities in an international digital environment.
 
 I value integrity, responsibility, continuous learning, and the protection of people and data. I am especially interested in threat analysis, incident response, risk management, and understanding how security issues can affect users, systems, and organizations.
 
