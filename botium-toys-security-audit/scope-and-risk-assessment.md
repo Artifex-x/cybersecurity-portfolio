@@ -45,3 +45,14 @@ The main risks identified include:
 The overall risk score for Botium Toys is **8 out of 10**, which represents a high level of risk.
 
 This score reflects the number and severity of missing security controls, weaknesses in access management, and gaps in compliance and data protection practices.
+## Existing Security Controls
+
+Botium Toys already has several security controls in place, including:
+
+- Firewall protection
+- Antivirus software that is regularly monitored
+- Manual monitoring and maintenance of legacy systems
+- Physical locks protecting offices, the storefront, and warehouse
+- Closed-circuit television (CCTV) surveillance
+- Fire detection and prevention systems
+- An existing password policy, although its requirements need improvement
