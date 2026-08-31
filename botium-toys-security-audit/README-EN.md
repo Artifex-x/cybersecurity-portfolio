@@ -1,5 +1,8 @@
 # Botium Toys Security Audit
+**English** | [Português (PT-BR)](./README.md)
+
 ![Botium Toys Security Audit](./botium-toys-security-audit-banner.png)
+
 ## Overview
 
 This project is an academic cybersecurity lab based on the fictional company Botium Toys.
