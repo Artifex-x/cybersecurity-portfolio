@@ -1,4 +1,4 @@
-# Auditoria de Segurança - Botium Toys
+# Auditoria de Segurança, Botium Toys
 
 [English](./README-EN.md) | **Português (PT-BR)**
 
