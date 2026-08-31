@@ -1,6 +1,6 @@
 # Portfólio de Cibersegurança
 
-[English](./README.md) | **Português (PT-BR)**
+[English](./README-EN.md) | **Português (PT-BR)**
 
 ## Apresentação Profissional
 
