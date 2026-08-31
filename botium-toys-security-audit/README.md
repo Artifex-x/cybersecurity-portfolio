@@ -2,7 +2,7 @@
 
 [English](./README-EN.md) | **Português (PT-BR)**
 
-![Botium Toys Security Audit](./botium-toys-security-audit-banner.png)
+![Auditoria de Segurança - Botium Toys](./botium-toys-security-audit-banner-ptbr.png)
 
 ## Visão Geral
 
